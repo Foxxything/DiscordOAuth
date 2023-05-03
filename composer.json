@@ -1,0 +1,19 @@
+{
+    "name": "foxxything/the_den",
+    "description": "A website for people who have DID",
+    "require-dev": {
+        "phpunit/phpunit": "^10.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Foxxything\\DiscordOAuth\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Foxx Azalea Pinkerton",
+            "email": "foxx@foxxything.com"
+        }
+    ],
+    "require": {}
+}
